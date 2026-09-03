@@ -327,7 +327,6 @@ Potential future improvements include:
 * Additional classification algorithms
 * Model monitoring
 * Data drift detection
-* Interactive Streamlit application
 * Production API deployment
 * Integration with customer retention workflows
 
@@ -339,4 +338,4 @@ Potential future improvements include:
 
 Data Science | Machine Learning | Data Analytics
 
-This project is part of my professional portfolio development toward **Data Analyst and Data Scientist roles**.
+This project is part of my professional portfolio development toward Data Analyst and Data Scientist roles.

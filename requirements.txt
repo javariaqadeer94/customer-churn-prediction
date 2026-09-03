@@ -3,8 +3,6 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-jupyter
+openpyxl
 joblib
-xgboost
-shap
-streamlit
+jupyter

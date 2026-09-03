@@ -13,5 +13,6 @@ env/
 
 *.pkl
 *.joblib
+!outputs/best_churn_model.joblib
 
 data/processed/*
