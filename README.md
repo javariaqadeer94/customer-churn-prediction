@@ -7,6 +7,7 @@ The project combines exploratory data analysis, data preprocessing, leakage-safe
 
 
 ## 📌 Project Overview
+<img width="800" height="1200" alt="image" src="https://github.com/user-attachments/assets/67ea0f37-0e9d-4911-afd8-00841f701cee" />
 
 Customer churn is an important business problem for telecommunications companies because customer loss can negatively affect revenue and long-term customer relationships.
 
