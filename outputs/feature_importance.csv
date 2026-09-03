@@ -1,21 +1,21 @@
-Feature,Importance,Absolute importance
-num__tenure,-1.1916240649826693,1.1916240649826693
-cat__Dependents_Yes,-0.9287770804348321,0.9287770804348321
-cat__Contract_Two year,-0.7518260365266186,0.7518260365266186
-cat__Dependents_No,0.7019491579548021,0.7019491579548021
-cat__Contract_Month-to-month,0.6565884206830642,0.6565884206830642
-cat__Internet Service_Fiber optic,0.5855384585089422,0.5855384585089422
-cat__Internet Service_DSL,-0.5578465676457292,0.5578465676457292
-num__MonthlyCharges,-0.5415259088150186,0.5415259088150186
-num__TotalCharges,0.4846297195958415,0.4846297195958415
-cat__Paperless Billing_No,-0.272578484822911,0.272578484822911
-cat__Device Protection_No internet service,-0.2545198133432454,0.2545198133432454
-cat__Internet Service_No,-0.2545198133432454,0.2545198133432454
-cat__Online Security_No internet service,-0.2545198133432454,0.2545198133432454
-cat__Tech Support_No internet service,-0.2545198133432454,0.2545198133432454
-cat__Streaming TV_No internet service,-0.2545198133432454,0.2545198133432454
-cat__Online Backup_No internet service,-0.2545198133432454,0.2545198133432454
-cat__Streaming Movies_No internet service,-0.2545198133432454,0.2545198133432454
-cat__Partner_No,-0.2520981825066468,0.2520981825066468
-cat__Multiple Lines_No,-0.23703818083344202,0.23703818083344202
-cat__Payment Method_Electronic check,0.23287748871582115,0.23287748871582115
+Feature,Coefficient,Absolute Coefficient,Direction
+num__tenure,-1.1929905705445234,1.1929905705445234,Lower churn association
+cat__Dependents_Yes,-0.9307254618468302,0.9307254618468302,Lower churn association
+cat__Contract_Two year,-0.7532161052640253,0.7532161052640253,Lower churn association
+cat__Dependents_No,0.70355064468949,0.70355064468949,Higher churn association
+cat__Contract_Month-to-month,0.6597442784863691,0.6597442784863691,Higher churn association
+cat__Internet Service_Fiber optic,0.5921525839596957,0.5921525839596957,Higher churn association
+cat__Internet Service_DSL,-0.5625700482672594,0.5625700482672594,Lower churn association
+num__MonthlyCharges,-0.5580889350608621,0.5580889350608621,Lower churn association
+num__TotalCharges,0.4973939158084819,0.4973939158084819,Higher churn association
+cat__Paperless Billing_No,-0.2738578984880073,0.2738578984880073,Lower churn association
+cat__Internet Service_No,-0.25675735284972895,0.25675735284972895,Lower churn association
+cat__Online Security_No internet service,-0.25675735284972895,0.25675735284972895,Lower churn association
+cat__Device Protection_No internet service,-0.25675735284972895,0.25675735284972895,Lower churn association
+cat__Streaming TV_No internet service,-0.25675735284972895,0.25675735284972895,Lower churn association
+cat__Online Backup_No internet service,-0.25675735284972895,0.25675735284972895,Lower churn association
+cat__Tech Support_No internet service,-0.25675735284972895,0.25675735284972895,Lower churn association
+cat__Streaming Movies_No internet service,-0.25675735284972895,0.25675735284972895,Lower churn association
+cat__Partner_No,-0.25302745197626686,0.25302745197626686,Lower churn association
+cat__Multiple Lines_No,-0.2367295067939102,0.2367295067939102,Lower churn association
+cat__Payment Method_Electronic check,0.23343128395663523,0.23343128395663523,Higher churn association
